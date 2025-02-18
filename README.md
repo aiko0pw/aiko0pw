@@ -1,4 +1,4 @@
-Oii aqui quem fala é a Aiko. Aqui você pode encontrar meus códigos e projetos, para me contatar é só chamar no meu discord!
+Oii aqui quem fala é a Lorrayne. Aqui você pode encontrar meus códigos e projetos, para me contatar é só chamar no meu discord!
 <p
     </a> 
     <a href="https://github.com/aiko0pw?tab=repositories&sort=stargazers">
