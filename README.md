@@ -1,4 +1,4 @@
-Oii aqui quem fala é a Lorrayne. Aqui você pode encontrar meus códigos e projetos, para me contatar é só chamar no meu instagram!
+Oii aqui quem fala é a Lorrayne. Aqui você pode encontrar meus códigos e projetos, para me contatar é só chamar no meu instagram llpwwxz_!
 <p
     </a> 
     <a href="https://github.com/aiko0pw?tab=repositories&sort=stargazers">
@@ -15,7 +15,7 @@ Oii aqui quem fala é a Lorrayne. Aqui você pode encontrar meus códigos e proj
             src="https://custom-icon-badges.demolab.com/github/followers/aiko0pw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
   
-    </a>
+
 </p>
 
 ---
